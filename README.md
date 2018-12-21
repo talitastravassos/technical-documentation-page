@@ -1,2 +1,3 @@
-# technical-documentation-page
+# Technical Documentation Page
+## TypeScript Documentation
 freeCodeCamp Project

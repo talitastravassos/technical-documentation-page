@@ -1,0 +1,30 @@
+body, html, .container-fluid {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100vh;
+    max-height: 100%;
+}
+
+.navbar{
+    position: fixed;
+}
+
+.code-box{
+    display:block;
+    text-align: left;
+    position: relative;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    background-color:#f7f7f7;
+    padding:15px;
+    margin:10px;
+    border-radius:5px;
+}
+
+main {
+    max-height: 100%;
+    overflow-y: auto;
+}
